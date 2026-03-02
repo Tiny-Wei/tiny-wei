@@ -56,3 +56,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tiny-Wei&theme=react" alt="Tiny-Wei" width=50% />
 </p>
+
+![My GitHub Game](game.gif)
+
